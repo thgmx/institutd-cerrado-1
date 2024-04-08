@@ -21,4 +21,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Cartes postales sonores
+  target: "/cartes-postales-sonores/"
+  kind: page
+  children: []
 
