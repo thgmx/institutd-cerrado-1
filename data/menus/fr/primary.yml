@@ -17,7 +17,7 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Organisations
+- title: Cordéis
   target: "/organisations/"
   kind: page
   children: []
