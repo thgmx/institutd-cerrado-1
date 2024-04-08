@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
+- title: Présentation et contextualisation
   target: "/actualites/"
   kind: page
   children: []
