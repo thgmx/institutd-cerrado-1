@@ -9,7 +9,7 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: Projets
+- title: Machines
   target: "/projets/"
   kind: page
   children: []
