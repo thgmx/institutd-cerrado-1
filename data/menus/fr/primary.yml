@@ -13,7 +13,7 @@ items:
   target: "/projets/"
   kind: page
   children: []
-- title: Équipe
+- title: Portraits
   target: "/equipe/"
   kind: page
   children: []
