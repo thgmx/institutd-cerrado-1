@@ -25,4 +25,8 @@ items:
   target: "/cartes-postales-sonores/"
   kind: page
   children: []
+- title: Formulaire de contact
+  target: "/formulaire-de-contact/"
+  kind: page
+  children: []
 
