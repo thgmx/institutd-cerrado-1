@@ -1,12 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Présentation et contextualisation
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Qui sommes-nous ?
   target: "/agenda/"
+  kind: page
+  children: []
+- title: Présentation et contextualisation
+  target: "/actualites/"
   kind: page
   children: []
 - title: Machines
