@@ -25,7 +25,7 @@ items:
   target: "/cartes-postales-sonores/"
   kind: page
   children: []
-- title: Formulaire de contact
+- title: Page qui sert à que-tchi
   target: "/formulaire-de-contact/"
   kind: page
   children: []
