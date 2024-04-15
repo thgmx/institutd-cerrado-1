@@ -1,16 +1,16 @@
 ---
 title: Menu principal
 items:
-- title: Machines
-  target: "/machines/"
+- title: Qui sommes-nous ?
+  target: "/qui/"
   kind: page
   children: []
 - title: Présentation et contextualisation
   target: "/actualites/"
   kind: page
   children: []
-- title: Qui sommes-nous ?
-  target: "/qui/"
+- title: Machines
+  target: "/machines/"
   kind: page
   children: []
 - title: Portraits
