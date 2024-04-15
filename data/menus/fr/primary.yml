@@ -21,8 +21,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Machines
-  target: "/machines/"
+- title: Archives
+  target: "/archives/"
   kind: page
   children: []
 
