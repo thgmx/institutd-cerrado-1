@@ -5,7 +5,7 @@ items:
   target: "/qui/"
   kind: page
   children: []
-- title: Qu'est ce que c'est ?
+- title: Le projet
   target: "/actualites/"
   kind: page
   children: []
