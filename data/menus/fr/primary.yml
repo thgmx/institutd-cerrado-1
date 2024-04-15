@@ -9,8 +9,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Machines
-  target: "/projets/"
+- title: Qui sommes-nous ?
+  target: "/qui/"
   kind: page
   children: []
 - title: Portraits
