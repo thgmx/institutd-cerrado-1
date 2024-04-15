@@ -11,8 +11,8 @@ fr:
   permalinks:
     events: /machines/:year-:month-:day-:slug/
     events_categories: /machines/:slug/
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
+    projects: /qui/:year-:slug/
+    projects_categories: /qui/:slug/
   taxonomies:
     administrator: administrators
     author: authors
