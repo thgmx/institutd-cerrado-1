@@ -21,4 +21,8 @@ items:
   target: "/machines/"
   kind: page
   children: []
+- title: Machines
+  target: "/machines-1/"
+  kind: page
+  children: []
 
