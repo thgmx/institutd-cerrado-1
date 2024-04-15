@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Machines
-  target: "/agenda/"
+  target: "/machines/"
   kind: page
   children: []
 - title: Présentation et contextualisation
