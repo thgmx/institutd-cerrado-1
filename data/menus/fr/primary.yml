@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Qui sommes-nous ?
+- title: Machines
   target: "/agenda/"
   kind: page
   children: []
