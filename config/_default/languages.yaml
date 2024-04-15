@@ -9,8 +9,8 @@ fr:
   params:
     social:
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
+    events: /machines/:year-:month-:day-:slug/
+    events_categories: /machines/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
   taxonomies:
