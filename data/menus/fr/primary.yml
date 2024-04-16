@@ -29,10 +29,6 @@ items:
   target: "/machines-1/"
   kind: page
   children: []
-- title: Machines tests
-  target: "/machines-tests/"
-  kind: page
-  children: []
 - title: Cordéis
   target: "/organisations/"
   kind: page
