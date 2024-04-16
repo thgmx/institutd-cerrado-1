@@ -13,7 +13,7 @@ items:
   target: "/actualites/"
   kind: page
   children:
-  - title: Présentation du projet Maquinas do dia a dia
+  - title: Présentation du projet Maquinas do dia a dia (scientifique)
     target: "/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
