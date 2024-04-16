@@ -25,12 +25,12 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Cordéis
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Machines
   target: "/machines/"
+  kind: page
+  children: []
+- title: Cordéis
+  target: "/organisations/"
   kind: page
   children: []
 
