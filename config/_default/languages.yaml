@@ -9,10 +9,10 @@ fr:
   params:
     social:
   permalinks:
-    events: /machines/:year-:month-:day-:slug/
-    events_categories: /machines/:slug/
-    projects: /qui/:year-:slug/
-    projects_categories: /qui/:slug/
+    events: /archives/:year-:month-:day-:slug/
+    events_categories: /archives/:slug/
+    projects: /machines/:year-:slug/
+    projects_categories: /machines/:slug/
   taxonomies:
     administrator: administrators
     author: authors
