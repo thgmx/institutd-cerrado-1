@@ -33,8 +33,4 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Archives
-  target: "/archives/"
-  kind: page
-  children: []
 
