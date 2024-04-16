@@ -29,4 +29,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Machines
+  target: "/machines/"
+  kind: page
+  children: []
 
