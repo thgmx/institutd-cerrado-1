@@ -12,7 +12,11 @@ items:
 - title: Le projet
   target: "/actualites/"
   kind: page
-  children: []
+  children:
+  - title: Présentation du projet Maquinas do dia a dia
+    target: "/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
+    kind: page
+    children: []
 - title: Portraits
   target: "/equipe/"
   kind: page
