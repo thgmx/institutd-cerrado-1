@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: Formulaire de contact
-    target: "/qui/formulaire-de-contact/"
+    target: "/formulaire-de-contact/"
     kind: page
     children: []
 - title: Le projet
