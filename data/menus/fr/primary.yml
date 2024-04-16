@@ -33,4 +33,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Machines tests
+  target: "/machines-tests/"
+  kind: page
+  children: []
 
