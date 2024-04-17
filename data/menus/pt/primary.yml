@@ -25,6 +25,10 @@ items:
     target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
+  - title: O que é Máquinas do dia a dia ? (versão simples)
+    target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+    kind: page
+    children: []
 - title: Equipa
   target: "/pt/equipe/"
   kind: page
