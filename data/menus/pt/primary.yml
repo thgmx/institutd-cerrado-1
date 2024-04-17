@@ -16,7 +16,15 @@ items:
 - title: Máquinas
   target: "/pt/projets/"
   kind: page
-  children: []
+  children:
+  - title: O que é Máquinas do dia a dia? (versão universitária)
+    target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia/"
+    kind: page
+    children: []
+  - title: O que é Máquinas do dia a dia ? (versão simples)
+    target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+    kind: page
+    children: []
 - title: Cordéis
   target: "/pt/organisations/"
   kind: page
@@ -32,6 +40,10 @@ items:
 - title: O furo que dava de comer para o borrachero mais que ao mesmo tempo queria
     mata-lo
   target: "/pt/cordeis-1/"
+  kind: page
+  children: []
+- title: O animal que precisava comer banana para não querer comer os correntinos
+  target: "/pt/cordeis-2/"
   kind: page
   children: []
 
