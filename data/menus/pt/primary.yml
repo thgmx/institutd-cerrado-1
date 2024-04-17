@@ -9,14 +9,6 @@ items:
     target: "/pt/qui-sommes-nous/formulaire-de-contact/"
     kind: page
     children: []
-- title: Organizações
-  target: "/pt/organisations/"
-  kind: page
-  children: []
-- title: Calendário
-  target: "/pt/agenda/"
-  kind: page
-  children: []
 - title: Projetos
   target: "/pt/projets/"
   kind: page
@@ -29,7 +21,15 @@ items:
     target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
-- title: Equipa
+- title: Organizações
+  target: "/pt/organisations/"
+  kind: page
+  children: []
+- title: Calendário
+  target: "/pt/agenda/"
+  kind: page
+  children: []
+- title: Retratos
   target: "/pt/equipe/"
   kind: page
   children: []
