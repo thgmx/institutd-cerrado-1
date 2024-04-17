@@ -33,4 +33,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: On est qui ?
+  target: "/qui-sommes-nous/equipe-editoriale/"
+  kind: page
+  children: []
 
