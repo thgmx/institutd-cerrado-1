@@ -21,7 +21,7 @@ items:
   target: "/pt/projets/"
   kind: page
   children:
-  - title: Ça parle de quoi Máquinas do dia a dia ? (version difficile)
+  - title: O que é Máquinas do dia a dia? (versão difícil)
     target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
