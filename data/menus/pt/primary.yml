@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Qui sommes-nous ?
+  target: "/pt/qui-sommes-nous/"
+  kind: page
+  children: []
 - title: Organizações
   target: "/pt/organisations/"
   kind: page
