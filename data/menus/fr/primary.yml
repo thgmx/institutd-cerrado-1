@@ -5,14 +5,14 @@ items:
   target: "/qui-sommes-nous/equipe-editoriale/"
   kind: page
   children:
+  - title: On est qui ?
+    target: "/qui-sommes-nous/equipe-editoriale/"
+    kind: page
+    children: []
   - title: Formulaire de contact
     target: "/qui-sommes-nous/formulaire-de-contact/"
     kind: page
     children: []
-- title: On est qui ?
-  target: "/qui-sommes-nous/equipe-editoriale/"
-  kind: page
-  children: []
 - title: Le projet
   target: "/actualites/"
   kind: page
