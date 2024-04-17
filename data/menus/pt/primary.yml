@@ -29,14 +29,6 @@ items:
   target: "/pt/organisations/"
   kind: page
   children: []
-- title: Calendário
-  target: "/pt/agenda/"
-  kind: page
-  children: []
-- title: Actualités
-  target: "/pt/actualites/"
-  kind: page
-  children: []
 - title: O furo que dava de comer para o borrachero mais que ao mesmo tempo queria
     mata-lo
   target: "/pt/cordeis-1/"
@@ -44,6 +36,14 @@ items:
   children: []
 - title: O animal que precisava comer banana para não querer comer os correntinos
   target: "/pt/cordeis-2/"
+  kind: page
+  children: []
+- title: Calendário
+  target: "/pt/agenda/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/pt/actualites/"
   kind: page
   children: []
 
