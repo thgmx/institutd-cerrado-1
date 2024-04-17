@@ -4,7 +4,11 @@ items:
 - title: Quem somos ?
   target: "/pt/qui-sommes-nous/"
   kind: page
-  children: []
+  children:
+  - title: Formulário de contacto
+    target: "/pt/qui-sommes-nous/formulaire-de-contact/"
+    kind: page
+    children: []
 - title: Organizações
   target: "/pt/organisations/"
   kind: page
