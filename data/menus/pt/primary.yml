@@ -1,19 +1,19 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
+- title: Organizações
   target: "/pt/organisations/"
   kind: page
   children: []
-- title: Agenda
+- title: Calendário
   target: "/pt/agenda/"
   kind: page
   children: []
-- title: Projets
+- title: Projetos
   target: "/pt/projets/"
   kind: page
   children: []
-- title: Équipe
+- title: Equipa
   target: "/pt/equipe/"
   kind: page
   children: []
