@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Qui sommes-nous ?
-  target: "/machines/"
+  target: "/qui-sommes-nous/equipe-editoriale/"
   kind: page
   children:
   - title: Formulaire de contact
