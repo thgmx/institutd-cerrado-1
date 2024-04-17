@@ -17,11 +17,11 @@ items:
   target: "/fr/actualites/"
   kind: page
   children:
-  - title: Présentation du projet Maquinas do dia a dia (scientifique)
+  - title: Ça parle de quoi Máquinas do dia a dia ? (version Universitaire)
     target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
-  - title: Présentation du projet Maquinas do dia a dia (simple)
+  - title: Ça parle de quoi Máquinas do dia a dia ? (version simple)
     target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []

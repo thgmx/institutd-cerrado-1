@@ -9,11 +9,15 @@ items:
     target: "/pt/qui-sommes-nous/formulaire-de-contact/"
     kind: page
     children: []
+- title: Retratos
+  target: "/pt/equipe/"
+  kind: page
+  children: []
 - title: Máquinas
   target: "/pt/projets/"
   kind: page
   children:
-  - title: O que é Máquinas do dia a dia? (versão difícil)
+  - title: O que é Máquinas do dia a dia? (versão universitária)
     target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
@@ -21,11 +25,7 @@ items:
     target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
-- title: Retratos
-  target: "/pt/equipe/"
-  kind: page
-  children: []
-- title: Organizações
+- title: Cordéis
   target: "/pt/organisations/"
   kind: page
   children: []
