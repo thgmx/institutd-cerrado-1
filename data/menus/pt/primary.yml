@@ -20,9 +20,17 @@ items:
 - title: Projetos
   target: "/pt/projets/"
   kind: page
-  children: []
+  children:
+  - title: Ça parle de quoi Máquinas do dia a dia ? (version difficile)
+    target: "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia/"
+    kind: page
+    children: []
 - title: Equipa
   target: "/pt/equipe/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/pt/actualites/"
   kind: page
   children: []
 
