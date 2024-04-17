@@ -19,6 +19,7 @@ pt:
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
+    persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -49,6 +50,7 @@ fr:
     events_categories: /archives/:slug/
     projects: /machines/:year-:slug/
     projects_categories: /machines/:slug/
+    persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
