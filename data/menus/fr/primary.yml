@@ -21,7 +21,7 @@ items:
     target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
-  - title: Présentation du projet Maquinas do dia a dia (vulgarisé)
+  - title: Présentation du projet Maquinas do dia a dia (simple)
     target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
