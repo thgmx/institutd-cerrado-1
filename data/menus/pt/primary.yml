@@ -1,0 +1,16 @@
+---
+title: Menu principal
+items:
+- title: Organisations
+  target: "/pt/organisations/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/pt/agenda/"
+  kind: page
+  children: []
+- title: Projets
+  target: "/pt/projets/"
+  kind: page
+  children: []
+

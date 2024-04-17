@@ -2,39 +2,39 @@
 title: Menu principal
 items:
 - title: Qui sommes-nous ?
-  target: "/qui-sommes-nous/equipe-editoriale/"
+  target: "/fr/qui-sommes-nous/equipe-editoriale/"
   kind: page
   children:
   - title: On est qui ?
-    target: "/qui-sommes-nous/equipe-editoriale/"
+    target: "/fr/qui-sommes-nous/equipe-editoriale/"
     kind: page
     children: []
   - title: Formulaire de contact
-    target: "/qui-sommes-nous/formulaire-de-contact/"
+    target: "/fr/qui-sommes-nous/formulaire-de-contact/"
     kind: page
     children: []
 - title: Le projet
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   children:
   - title: Présentation du projet Maquinas do dia a dia (scientifique)
-    target: "/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
+    target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
   - title: Présentation du projet Maquinas do dia a dia (vulgarisé)
-    target: "/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+    target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
 - title: Portraits
-  target: "/equipe/"
+  target: "/fr/equipe/"
   kind: page
   children: []
 - title: Machines
-  target: "/machines/"
+  target: "/fr/machines/"
   kind: page
   children: []
 - title: Cordéis
-  target: "/organisations/"
+  target: "/fr/organisations/"
   kind: page
   children: []
 

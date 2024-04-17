@@ -4,7 +4,7 @@ baseURL: https://cerrado-1.institutd.osuny.site
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 ## CACHE
 deployment:
