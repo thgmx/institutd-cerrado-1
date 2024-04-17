@@ -18,11 +18,11 @@ items:
   kind: blank
   children:
   - title: Ça parle de quoi Máquinas do dia a dia ? (version simple)
-    target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+    target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
   - title: Ça parle de quoi Máquinas do dia a dia ? (version Universitaire)
-    target: "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
+    target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
 - title: Portraits
