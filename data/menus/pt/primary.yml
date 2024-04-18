@@ -42,4 +42,8 @@ items:
   target: "/pt/actualites/"
   kind: page
   children: []
+- title: O que é Máquinas do dia a dia ? (versão universitária )
+  target: "/pt/o-que-e-maquinas-do-dia-a-dia-versao-difficil/"
+  kind: page
+  children: []
 
