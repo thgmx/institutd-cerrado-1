@@ -42,7 +42,7 @@ items:
   target: "/pt/agenda/"
   kind: page
   children: []
-- title: Actualités
+- title: Notícias
   target: "/pt/actualites/"
   kind: page
   children: []
