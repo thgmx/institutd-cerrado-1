@@ -1,18 +1,10 @@
 ---
 title: Menu principal
 items:
-- title: Qui sommes nous ?
-  target: ''
-  kind: blank
-  children:
-  - title: On est qui ?
-    target: "/fr/equipe-editoriale/"
-    kind: page
-    children: []
-  - title: Formulaire de contact
-    target: "/fr/formulaire-de-contact/"
-    kind: page
-    children: []
+- title: On est qui ?
+  target: "/fr/equipe-editoriale/"
+  kind: page
+  children: []
 - title: Le projet
   target: ''
   kind: blank
