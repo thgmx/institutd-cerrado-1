@@ -7,3 +7,13 @@ params:
     position: hero
   search:
     active: false  
+
+cdnkey: https://osuny-1b4da.kxcdn.com/
+cookie_banner:
+  enable: true
+  blank: true
+  page: https://gdpr.eu/cookies/
+params:
+  logo:
+    header: "/assets/images/LogoMaquinas2.svg"
+    footer: "/assets/images/LogoMaquinas2.svg"
