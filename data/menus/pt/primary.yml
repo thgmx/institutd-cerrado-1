@@ -13,10 +13,6 @@ items:
   target: "/pt/equipe/"
   kind: page
   children: []
-- title: O que é Máquinas do dia a dia? (versão universitária)
-  target: "/pt/presentation-du-projet-maquinas-do-dia-a-dia/"
-  kind: page
-  children: []
 - title: O que é Máquinas do dia a dia ? (versão simples)
   target: "/pt/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
   kind: page
