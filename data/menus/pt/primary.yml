@@ -42,8 +42,4 @@ items:
   target: "/pt/actualites/"
   kind: page
   children: []
-- title: ccc
-  target: "/pt/ccc/"
-  kind: page
-  children: []
 
