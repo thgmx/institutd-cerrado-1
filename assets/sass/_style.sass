@@ -15,6 +15,15 @@ header#document-header.is-sticky .menu a, header#document-header.is-sticky .menu
     color: #4B5830
     font-family: LosLanaSemiBold
 
+@media (min-width:992px)
+    body:not(.projects__page) header.hero
+        color: #FFFAED
+
+@media (max-width:500px)
+    body:not(.projects__page) header.hero
+        color: #FFFAED
+
+
 header#document-header nav .header-button span:first-of-type
     display: none
 
@@ -29,6 +38,19 @@ header#document-header nav .header-button span:first-of-type
     margin-bottom: 60px
 
 .block-video .video
+    margin: 0 auto
+
+.blocks .block:last-child:is(.block-call_to_action,.block-chapter--accent_background,.block-chapter--alt_background,.block-timeline--horizontal,.block-pages--cards)
+    margin-bottom: 3rem
+
+@media (max-width: 991.98px)
+    .block-call_to_action .call_to_action
+            padding: 0
+
+[src="https://osuny-1b4da.kxcdn.com/4vfjpfv6whn3roznvsxcscqtv1m8?width=1280&height=720&&fit=inside"]
+    margin: 0 auto
+
+[src="https://osuny-1b4da.kxcdn.com/qjkxobogxt3gx0a3bfz5rhvggow5?width=1280&height=720&&fit=inside"]
     margin: 0 auto
 
 
@@ -71,7 +93,7 @@ header#document-header nav .header-button span:first-of-type
 
 @media (max-width:500px)
     .page-contexte header.hero
-        background-image: url(/assets/images/Banners/ContextePetit2.png)
+        background-image: url(/assets/images/Banners/PetitContexte.png)
 
 @media (min-width:992px)
     .page-portraits  header.hero
