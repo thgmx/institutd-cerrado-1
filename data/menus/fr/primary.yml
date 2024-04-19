@@ -9,7 +9,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Ça parle de quoi Máquinas do dia a dia ? (version simple)
+  - title: De quoi ça parle ? (version simple)
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
