@@ -13,7 +13,7 @@ items:
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
-  - title: De quoi ça parle Máquinas do dia a dia ? (version Universitaire)
+  - title: De quoi ça parle ? (version Universitaire)
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
