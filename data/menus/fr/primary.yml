@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: On est qui ?
+- title: Qui sommes-nous ?
   target: "/fr/equipe-editoriale/"
   kind: page
   children: []
