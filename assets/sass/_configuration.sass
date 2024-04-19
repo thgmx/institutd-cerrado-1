@@ -2,11 +2,11 @@
 // Variables disponibles : https://github.com/noesya/osuny-hugo-theme-AAA/blob/main/assets/sass/_theme/_configuration.sass
 // Documentation sur : https://developers.osuny.org/docs/theme/theme-aaa/
 
-// COLORS// 
-$color-accent: #4B5830 
+//COLORSACCENT//MODIFIÉ// 
+$color-accent: #EF6A3D
 $color-text: #4B5830 
 $color-text-alt: #EF6A3D
-$color-background: #FFFAED 
+$color-background: #FFFAED
 $color-background-alt: #FFFAED 
 $color-border: rgba(0, 0, 0, 0.30) 
 $color-selection: $color-background
@@ -30,24 +30,41 @@ $block-call-to-action-color: #4B5830
 $block-call-to-action-button-background: #EF6A3D
 $block-call-to-action-button-color: #FFFAED 
 
-// TYPOGRAPHY//
-$body-font-family: "GitanLatinRegular", serif 
-$heading-font-family: "LosLana" "LosLanaSemiBold" "LosLanaRegular" "LosLanaMedium", sans-serif 
+//LINKCOLORS//MODIFIÉ//
+$link-color: #EF6A3D
 
-// h1
-$h1-font-family: LosLanaSemiBold
 
-// h2
-$h2-font-family: LosLanaSemiBold
+//TYPOGRAPHY//MODIFIÉ//
+$body-font-family: GitanLatinRegular, serif 
+$heading-font-family: LosLanaSemiBold, sans-serif
 
-// h3
-$h3-font-family: LosLanaSemiBold
+// h1//
+$h1-font-family: LosLanaSemiBold, sans-serif
+@media (min-width:992px)
+    .header class hero
+$color-text: #FFFAED
 
-// h4
-$h4-font-family: LosLanaMedium
+//h2//
+$h2-font-family: LosLanaSemiBold, sans-serif
+
+//h3//
+$h3-font-family: LosLanaSemiBold, sans-serif
+
+//h4//
+$h4-font-family: LosLanaMedium, sans-serif
+
+//BOUTON//MODIFIÉ//
+$btn-font-family: GitanLatinMedium, serif
+$btn-border-radius: pxToRem(50)
+$btn-padding: pxToRem(10) pxToRem(20) pxToRem(13) pxToRem(20)
+
+//FOOTER COLOR//MODIFIÉ//
+$dropdown-i18n-background-color: #212121
+$dropdown-i18n-color: #FFFAED
+
+//BREADCRUMB COLOR//MODIFIÉ//
+$breadcrumb-icon-color: #fffaed
 
 
 /* Général */
 $body-line-height: 150%
-
-
